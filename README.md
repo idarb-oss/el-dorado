@@ -129,7 +129,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/idarb-oss/el-dorado.svg?style=for-the-badge
 [issues-url]: https://github.com/idarb-oss/el-dorado/issues
 [license-shield]: https://img.shields.io/github/license/idarb-oss/el-dorado.svg?style=for-the-badge
-[license-url]: https://github.com/idarb-oss/el-dorado/blob/master/LICENSE
+[license-url]: https://github.com/idarb-oss/el-dorado/blob/main/LICENSE
 
 [product-screenshot]: images/screenshot.png
 
